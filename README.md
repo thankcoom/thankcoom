@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tsung-Ying Liu 👋</h1>
+<h1 align="center">Hi, I'm Louis 👋</h1>
 <p align="center">
   <b>Python &amp; AI Engineer</b> · LLM / RAG / AI Agents · Quant Trading Systems<br/>
   Indie builder at 喵哩文化創意 · Taiwan (UTC+8) · <b>Open to remote roles</b>
